@@ -528,6 +528,8 @@
     </build>
 
     <!-- test -->
+    <!-- motan config start-->
+    <!-- motan config start-->
     <pluginRepositories>
         <pluginRepository>
             <id>spring-releases</id>
