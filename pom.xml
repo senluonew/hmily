@@ -526,7 +526,7 @@
 
         </plugins>
     </build>
-
+    <!-- test-->
     <pluginRepositories>
         <pluginRepository>
             <id>spring-releases</id>
