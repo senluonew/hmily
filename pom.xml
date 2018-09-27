@@ -526,6 +526,8 @@
 
         </plugins>
     </build>
+
+    <!-- test -->
     <!-- motan config start-->
     <!-- motan config start-->
     <pluginRepositories>
